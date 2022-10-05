@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c89052c02dfb9664bbcc0a9c1baf19ba
+timeCreated: 1511167342
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: internet friends
+  fontNames:
+  - internet friends
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
